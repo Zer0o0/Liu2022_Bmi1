@@ -1,0 +1,73 @@
+> sessionInfo()
+R version 3.6.3 (2020-02-29)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19044)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.936 
+[2] LC_CTYPE=Chinese (Simplified)_China.936   
+[3] LC_MONETARY=Chinese (Simplified)_China.936
+[4] LC_NUMERIC=C                              
+[5] LC_TIME=Chinese (Simplified)_China.936    
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils     datasets 
+[8] methods   base     
+
+other attached packages:
+ [1] rtracklayer_1.46.0   GenomicRanges_1.38.0 GenomeInfoDb_1.22.1 
+ [4] IRanges_2.20.2       S4Vectors_0.24.4     BiocGenerics_0.32.0 
+ [7] RColorBrewer_1.1-2   pheatmap_1.0.12      ggbreak_0.0.9       
+[10] scales_1.1.1         hrbrthemes_0.8.0     scico_1.3.0         
+[13] ggsci_2.9            ggpubr_0.4.0         ggthemes_4.2.4      
+[16] forcats_0.5.1        stringr_1.4.0        dplyr_1.0.6         
+[19] purrr_0.3.4          readr_1.4.0          tidyr_1.1.3         
+[22] tibble_3.1.1         ggplot2_3.3.3        tidyverse_1.3.1     
+
+loaded via a namespace (and not attached):
+ [1] colorspace_2.0-1            ggsignif_0.6.2             
+ [3] ellipsis_0.3.2              rio_0.5.26                 
+ [5] XVector_0.26.0              fs_1.5.0                   
+ [7] aplot_0.1.2                 rstudioapi_0.13            
+ [9] fansi_0.4.2                 lubridate_1.7.10           
+[11] xml2_1.3.2                  extrafont_0.17             
+[13] knitr_1.33                  jsonlite_1.7.2             
+[15] Rsamtools_2.2.3             broom_0.7.6                
+[17] Rttf2pt1_1.3.8              dbplyr_2.1.1               
+[19] BiocManager_1.30.15         compiler_3.6.3             
+[21] httr_1.4.2                  rvcheck_0.1.8              
+[23] backports_1.2.1             Matrix_1.3-3               
+[25] assertthat_0.2.1            limma_3.42.2               
+[27] cli_3.1.0                   htmltools_0.5.1.1          
+[29] tools_3.6.3                 gtable_0.3.0               
+[31] glue_1.4.2                  GenomeInfoDbData_1.2.2     
+[33] Rcpp_1.0.6                  carData_3.0-4              
+[35] Biobase_2.46.0              cellranger_1.1.0           
+[37] vctrs_0.3.8                 Biostrings_2.54.0          
+[39] extrafontdb_1.0             xfun_0.22                  
+[41] openxlsx_4.2.3              rvest_1.0.2                
+[43] lifecycle_1.0.0             rstatix_0.7.0              
+[45] XML_3.99-0.3                zlibbioc_1.32.0            
+[47] hms_1.1.0                   SummarizedExperiment_1.16.1
+[49] curl_4.3.1                  ggfun_0.0.5                
+[51] gdtools_0.2.3               stringi_1.6.1              
+[53] zip_2.1.1                   BiocParallel_1.20.1        
+[55] matrixStats_0.58.0          rlang_0.4.11               
+[57] pkgconfig_2.0.3             systemfonts_1.0.2          
+[59] bitops_1.0-7                lattice_0.20-44            
+[61] evaluate_0.14               GenomicAlignments_1.22.1   
+[63] patchwork_1.1.1             tidyselect_1.1.1           
+[65] magrittr_2.0.1              R6_2.5.0                   
+[67] generics_0.1.0              DelayedArray_0.12.3        
+[69] DBI_1.1.1                   pillar_1.6.1               
+[71] haven_2.4.1                 foreign_0.8-75             
+[73] withr_2.4.2                 abind_1.4-5                
+[75] RCurl_1.98-1.3              modelr_0.1.8               
+[77] crayon_1.4.1                car_3.0-10                 
+[79] utf8_1.2.1                  rmarkdown_2.8              
+[81] grid_3.6.3                  readxl_1.3.1               
+[83] data.table_1.14.0           reprex_2.0.1               
+[85] digest_0.6.27               gridGraphics_0.5-1         
+[87] munsell_0.5.0               ggplotify_0.0.7         
