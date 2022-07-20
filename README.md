@@ -8,6 +8,6 @@ Spermatogenesis is sustained by the homeostasis of self-renewal and differentiat
 
 ---
 - snakefiles  
-Snakemake workflows for computing NGS results and some useful visualization.  
+Snakemake workflows for NGS analysis, including ChIP-seq and RNA-seq.  
 - R  
 Scripts for data visualization using R packages.
